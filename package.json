@@ -1,14 +1,14 @@
 {
   "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "Consultancy Portfolio",
   "main": "index.js",
   "homepage": "https://bradtraversy.github.io/modern_portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
+  "author": "Aditya Jha",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
